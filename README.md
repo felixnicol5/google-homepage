@@ -1,1 +1,2 @@
 My first ever project using HTML and CSS. A recreation of google's homepage.
+A lot of the code could be improved upon, but my CSS has certainly improved a lot in the course of this project. The use of grids to place the elements on the top and bottom is something that was previously hard to grasp.
